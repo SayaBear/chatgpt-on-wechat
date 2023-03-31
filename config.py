@@ -12,7 +12,7 @@ available_setting = {
     "open_ai_api_base": "https://api.openai.com/v1",
     "proxy": "",  # openai使用的代理
     # chatgpt模型， 当use_azure_chatgpt为true时，其名称为Azure上model deployment名称
-    "model": "gpt-3.5-turbo",
+    "model": "text-davinci-003",
     "use_azure_chatgpt": False,  # 是否使用azure的chatgpt
 
     # Bot触发配置
